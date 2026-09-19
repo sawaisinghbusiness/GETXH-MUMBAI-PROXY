@@ -1,0 +1,7 @@
+{
+  "name": "getxh-mumbai-proxy",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Mumbai edge proxy for BharatPe API",
+  "main": "api/transactions.js"
+}
